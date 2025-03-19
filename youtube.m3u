@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://stat.dinamalar.com/new/images/dmrenglishlogonew.png" tvg-id="dinamalar", Dinamalar News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742387228/ei/vGPaZ9DxIdm-kucP2szTIA/ip/20.42.17.64/id/qvGmZgqYArI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcP2g2lD9FRbP-XmpmYKdBhdi70wBQIc50zdQagUqct_Vl9NSSe-yY3NZ38ooirhmOIBtTeBxVUX/spc/_S3wKmHRcsWE19IEGggjZx2zZohAn9UtgN0i3gweXKTJcCS_ompM7jZL6-nPD4w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcnfD2aYyKR3o2roUHJxp_xQmNAxad8Nxvp1pUkatpaACIFkWMTtH3WTQAy6TJrw6yWyDJ5j8ttuiqYnioop2MYGj/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/07/raj-news-520x347.jpg" tvg-id="767", Raj News Tamil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
