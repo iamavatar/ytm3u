@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/_e3j0hx1Zjo-iVc3XCKximgbPXFIZZWqlLsDubrf7da1GCuz4FRT4DgqMBbi2OuB3jw8LoPtrw=s88-c-k-c0x00ffffff-no-rj" tvg-id="SongsforKidsEN", Songs for Kids
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744796185/ei/uSX_Z_ffJf6xlu8PpI3q4Aw/ip/172.183.199.179/id/ZO7RAdNjA_A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51436287/txs/51436280%2C51436281%2C51436282%2C51436283%2C51436284%2C51436285%2C51436286%2C51436287/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMkz74lhjJwdUujgJGepDEiA-nAocfeU1uSNxJvzufz82pueXnVwcWDlLl50AoCmmGxycxruJYb/spc/_S3wKpnqH0z6btGHlhu2d9iiL1DFTCknUpZHOjHlCIfsCIkUhZJXEilmwyNuA-U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJGNlYznleUGKe3EzdyuEr-NPk57ZfJfIWIQnDL_fiDCAiEAw2nmjPzWy8GChyNLHa7Iqb2_2B7Gy2rwZVhs61beo2A%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ulN8bmbHxOy81VdnE3euzK0Canr2lPQmZBAX3OqyzoFezsJ9Dwvq5KM68UNVNgt55g8qNoFp=s88-c-k-c0x00ffffff-no-rj" tvg-id="chuchutv", CoComelon Songs
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
