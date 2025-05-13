@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" tvg-id="1954", NewsTamil24X7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747129322/ei/ir8iaI2dEeSgir4Ph7OG0Qg/ip/172.214.175.255/id/ooDSEOwyexQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYS616KSw-f8rjQTaJKrU_fGLxtMnWgQU0REwugbwgFCcmswhiDKbmwR7KsH0HU7ibzK6BjzzFQ/spc/wk1kZm4GeSmlQO5wZ3rCKP8wBiUfDvtJUXO0UWwiDgq3fpD_9RTSmHM3aqi2m14/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQv0GI5uo4OHtSubfYF2QN6MNnj0cmhxt-9LD1PsmjnkCIQDjwyd6XSmqvuAHR7E6nxUze1PkE6DZE0yW-I08k1D0bA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://english.cdn.zeenews.com/images/logo/desktop_header_tamil_logo_39px.png" tvg-id="zeetamilnews", Zee Tamil News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
