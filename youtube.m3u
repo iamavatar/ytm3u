@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9vKWPBN8MLcdhdkVJdrKwOcOn90APL9horm_P_lQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="sun_news", Sun News Tamil
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747593433/ei/edQpaPOwJo2a2_gP1vLBoQk/ip/172.214.175.251/id/8Wxyj3XqRYE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZH1olNwTkcLvnMure-wQp_Q4NtX3olan_IVK_0VmLpslXu655Y402E0yox9bRcQfTVRpCZSkpC/spc/wk1kZjPc9EFSYyudwrkArHuIdv1VhVN994Xhtrvi4bzyHMPrxxM8K66YbH8etlA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZpqjkdMKOC9gQud6WIiQjHA36FfCSmwOjFoDAh2C7rECIBjEFXmbCT4opJKdGrjoTxp86ZgoD5wby-Ke1IzTGaGu/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://stat.dinamalar.com/new/images/dmrenglishlogonew.png" tvg-id="dinamalar", Dinamalar News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
