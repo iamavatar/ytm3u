@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762768220/ei/_GARaYizDtWXsfIPj6WR8Qk/ip/172.182.201.162/id/0VnYiyyic9g.2~45728542/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5ScyYWhG1_3GH0YHmn-7Fk6kCOaJ8tmHF687RL09b2vSqecE8nF-7-4ulV54IbBUmDpWzht-9lT/spc/6b0G_E6UvccqhBy6RM-n0aT00Tm20ZP3udgUHaQj0lF8IbphW5RQiJpgv4N-lo-5rSv0QgEqZaA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdh7ahIF1Wbv_j4X13zVEdsuvw_FZidA_52OfGEW5xscCIG91ardPtBW8w4804kcZm5vPdC7RIwHWtMFoAvR3o-dL/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/07/raj-news-520x347.jpg" tvg-id="767", Raj News Tamil
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762768231/ei/B2ERabCuGuPXsfIPmK-CwQM/ip/172.182.201.162/id/9MRDjHqSzFo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RFex6XjzDSNe3eTGSy5fn5wahfx13Fj-iDgthUBwi395s9MbhOh-zEntRJYsP2KBoguo4uqMEq/spc/6b0G_AKSH6uaYHhBte2bPLSDpAavvYRIsuSUj0Su9UKS4W5fjmCI1g73LsIeBTPuWrVPECTrhOg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdTBzkaXZw23QygFHWbKFh8rS7dK9WP-hFHV1Qq8XFJQCIHDiXHF-kWp__gZPy5eqOF3_QPeF0aMd5MWwKR_KKB07/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-plus.jpg" tvg-id="418", Jaya Plus
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
