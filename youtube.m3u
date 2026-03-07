@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772870697/ei/yYeraZ3DFsuMlu8PiOfJgAE/ip/128.24.161.36/id/UoNJwk6rVD8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-xuKIsCO1jtKn1kg0OIYUwn4cPQtCPipoIqey9W1j4sllJpN3-cWkSxvLopXU8Ohx0xo3iAPGM7/spc/6dlaFGPZg_OHSLguZkRj2Cp_M6RN3bTNKa3bzs1PWJB3HeCsQ8p5Ql68F8q5LSVDvxSeYQ/vprv/1/go/1/ns/-6F26MDLvHs7iQOGvvwAvNwT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/0YQBWr8NCu4IfjgS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgY3ZyKKLKkidvvTilhxiVUkVCqjAE-Uqjhzaccb4KM1sCIF55n7z_hcv_fdQHAkmxmy68zKjaGt9JUJOQArjaEcjn/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
